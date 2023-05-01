@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Inclided Bench Press",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Name": "Declined Bench Press",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Name": "Flat Bench Press",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Name": "Chin Ups",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Name": "Barbell Rows",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Name": "Bicep Curls",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Biceps"
+  },
+  {
+    "Name": "Barbell Curls",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Biceps"
+  },
+  {
+    "Name": "Triceps Kick-backs",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Triceps"
+  },
+  {
+    "Name": "Shoulders Press",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Name": "Lateral Raises",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Shoulders"
+  }
+]
