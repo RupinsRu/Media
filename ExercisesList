@@ -6,6 +6,36 @@
     "MuscleGroup": "Chest"
   },
   {
+    "Name": "Pushups",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Name": "Cable Flies",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Name": "Cable Crossover",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Name": "Inclided Dumbbell Press",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Name": "Dumbbell Flies",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Chest"
+  },
+  {
     "Name": "Declined Bench Press",
     "Description": "",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
@@ -43,6 +73,42 @@
   },
   {
     "Name": "Triceps Kick-backs",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Triceps"
+  },
+  {
+    "Name": "Dumbbell Overhead Extensions",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Triceps"
+  },
+  {
+    "Name": "Cable Bar Pushdowns",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Triceps"
+  },
+  {
+    "Name": "Cable Rope Pushdowns",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Triceps"
+  },
+  {
+    "Name": "Dips",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Triceps"
+  },
+  {
+    "Name": "Single Arm Overhead Dumbbell Extensions",
+    "Description": "",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+    "MuscleGroup": "Triceps"
+  },
+  {
+    "Name": "Overhead Cable Extensions",
     "Description": "",
     "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
     "MuscleGroup": "Triceps"
